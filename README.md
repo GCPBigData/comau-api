@@ -1,4 +1,4 @@
-# API RESTful em 45 minutos
+# API RESTful
 API RESTful com Spring Boot, Java 8, MongoDB e Spring Security
 
 ### APIs endpoints
